@@ -1,0 +1,1 @@
+el kernel es el nucleo del sistema operativo,se comunicacon el hardware y ejecuta los programas.la terminal es donde mandamos los comandos y vemos los resultados,y la shell es donde se ejectuta esos comandos y se interpretan los ejercicios.linux permite analizar muchos datoss datos y utulizar las herramientas de bioinformatica,ademas linux es simple para usar y modificar.

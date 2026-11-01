@@ -1,0 +1,201 @@
+    1  pwd
+    2  cd
+    3  cd/desktop
+    4  cd desktop
+    5  cd Desktop
+    6  cd/users/fcb_alumnos03
+    7  cd c
+    8  cd mu
+    9  cd mus
+   10  cal
+   11  cal 04 2006
+   12  cal 04 2026
+   13  ls
+   14  ls -1
+   15  man ls
+   16  q
+   17  Q
+   18  progr
+   19  history -1000
+   20  history-1000
+   21  history -100
+   22  history > historial_comandos_200926.txt
+   23  r
+   24  history -1000
+   25  history-2000
+   26  ls
+   27  cat historial_comandos_200926.txt 
+   28  exit
+   29  /bin
+   30  /dev
+   31  $
+   32  home directory
+   33  /homedirectory
+   34  ~homedirectory
+   35  man
+   36  ~
+   37  homedirectory
+   38  cp home directory
+   39  r
+   40  q
+   41  whoami
+   42  /homedirectory
+   43  pwd
+   44  ls-lh
+   45  ls-l
+   46  ls -lh
+   47  man
+   48  ]ls -a
+   49  ls -a
+   50  ls -h
+   51  ls -a
+   52  ls -h
+   53  readme.txt
+   54  ReaDMe.TXT
+   55  /ReaDMe.TXT
+   56  /fcb_material_practical
+   57  man
+   58  /cp readme.txt
+   59  man
+   60  cp
+   61  cp 
+   62  cat>readme.txt
+   63  pwd
+   64  cd fcb_material_practica1/
+   65  ls
+   66  ls -l
+   67  ls -lh
+   68  cd analisis_previos/
+   69  ls /lh
+   70  ls -lh
+   71  pwd
+   72  cd ~
+   73  cd fcb_material_practica1/analisis_previos/
+   74  history
+   75  pwd
+   76  >cat readme.txt
+   77  /fcb_material_practica1/README.txt
+   78  cat readme.txt
+   79  cat ~fcb_material_practica1/readme.txt
+   80  ~/fcb_material_practica1/readme.txt
+   81  cat ~/fcb_materia_practica1/readme.txt
+   82  ~/fcb_materia_practica1
+   83  cd ~/fcb_materia_practica1
+   84  ~/fcb_materia_practical
+   85  pwd
+   86  cd ~/fcb_material_practica1
+   87  /readme.txt
+   88  README.txt
+   89  cat ~readme.txt
+   90  cat /readme.txt
+   91  cat README.txt
+   92  cat /README.txt
+   93  cat README.txt
+   94  q
+   95  historial
+   96  cat historial
+   97  history 
+   98  history >comandos_historial_201026.txt
+   99  mv comandos_historial_201026.txt comandos_historialdesara_201026.txt
+  100  cat comandos_historialdesara_201026.txt
+  101  pwd
+  102  q
+  103  man
+  104  mkdir
+  105  mkdir _p
+  106  man
+  107  mkdir _p
+  108  cd ~
+  109  cd ~proyecto_biotec
+  110  mk ~proyecto_biotec
+  111  ~
+  112  mkdir proyectos_biotec/datos_crudos/datos_procesados/scripts/resultados/documentacion
+  113  cd ~
+  114  mkdir proyecto_biotec
+  115  cd proyecto_biotec
+  116  mkdir -p datos_crudos/datos_procesados/scripts/resultados/documentacion
+  117  pwd
+  118  ls
+  119  ls _a
+  120  ls -a
+  121  rmdir -p datos_crudos/datos_procesados/scripts/resultados/documentacion
+  122  pwd
+  123  ls
+  124  ls -a
+  125  mkdir -p datos_crudos datos_procesados scripts resultados documentacion
+  126  pwd
+  127  ls
+  128  ls -a
+  129  cd ~proyecto_biotec
+  130  cd proyecto_biotec
+  131  cd /proyecto_biotec
+  132  pwd
+  133  /home/fcb_alumno03
+  134  pwd
+  135  cd /home/alumno03
+  136  cd home/fcb_alumno03
+  137  cd /home/fcb_alumno03
+  138  pwd
+  139  mkdir history >comandos_historial_201026_practica2.txt
+  140  history
+  141  pwd
+  142  history >comandos_historialsara_201026.txt
+  143  history
+  144  pwd
+  145  mkdir resultados
+  146  pwd
+  147  cd /resultados
+  148  cd resultados
+  149  pwd
+  150  man
+  151  touch
+  152  touch mis_resultados_finales_txt
+  153  pwd
+  154  rmdir resultados
+  155  rmdir mis_resultados_finales.txt
+  156  cd ~
+  157  rmdir mis_resultados_finales.txt
+  158  cd ~/proyecto_biotec/resultados
+  159  pwd
+  160  touch mis_resultados_finales.txt
+  161  ls
+  162  touch mis\resultados\finales.txt
+  163  pwd
+  164  rm mis\resultados\finales.txt
+  165  pwd
+  166  cd fcb_material_practica1
+  167  cat datos_muestras.txt
+  168  head n-5 datos_muestras.txt
+  169  head -n 5 datos_muestras.txt
+  170  man wc
+  171  wc l datos_muestras.txt
+  172  wc -l datos_muestras.txt
+  173  grep -c control datos_muestras.txt
+  174  grep Escherichia_coli datos_muestras.txt
+  175  grep Mus_musculus datos_muestras.txt
+  176  grep secuencias_DNA.fasta
+  177  pwd
+  178  grep secuencias_DNA.FASTA
+  179  grep -c ">" secuencias_DNA.fasta
+  180  grep -c "^>" secuencias_DNA.fasta
+  181  cd fcb_material_practica1
+  182  grep -c ">" secuencias_DNA.fasta
+  183  cd proyecto_biotec
+  184  mkdir temp_borrar proyecto_biotec
+  185  ls proyecto_biotec
+  186  ls -l proyecto_biotec
+  187  cd
+  188  cd proyecto_biotec
+  189  ls
+  190  mkdir temp_borrar
+  191  ls
+  192  touch temp_borra/prueba.txt
+  193  touch temp_borrar/prueba.txt
+  194  rmdir temp_borrar
+  195  ls temp_borrar
+  196  ls -l temp_borrar
+  197  rm temp_borrar
+  198  rm -r temp_borrar
+  199  ls -l temp_borrar
+  200  history > proyecto_biotec/scripts/historial_comandos_C.txt
+  201  history > scripts/historial_comandos_C.txt

@@ -1,0 +1,98 @@
+    1  pwd
+    2  cd
+    3  cd/desktop
+    4  cd desktop
+    5  cd Desktop
+    6  cd/users/fcb_alumnos03
+    7  cd c
+    8  cd mu
+    9  cd mus
+   10  cal
+   11  cal 04 2006
+   12  cal 04 2026
+   13  ls
+   14  ls -1
+   15  man ls
+   16  q
+   17  Q
+   18  progr
+   19  history -1000
+   20  history-1000
+   21  history -100
+   22  history > historial_comandos_200926.txt
+   23  r
+   24  history -1000
+   25  history-2000
+   26  ls
+   27  cat historial_comandos_200926.txt 
+   28  exit
+   29  /bin
+   30  /dev
+   31  $
+   32  home directory
+   33  /homedirectory
+   34  ~homedirectory
+   35  man
+   36  ~
+   37  homedirectory
+   38  cp home directory
+   39  r
+   40  q
+   41  whoami
+   42  /homedirectory
+   43  pwd
+   44  ls-lh
+   45  ls-l
+   46  ls -lh
+   47  man
+   48  ]ls -a
+   49  ls -a
+   50  ls -h
+   51  ls -a
+   52  ls -h
+   53  readme.txt
+   54  ReaDMe.TXT
+   55  /ReaDMe.TXT
+   56  /fcb_material_practical
+   57  man
+   58  /cp readme.txt
+   59  man
+   60  cp
+   61  cp 
+   62  cat>readme.txt
+   63  pwd
+   64  cd fcb_material_practica1/
+   65  ls
+   66  ls -l
+   67  ls -lh
+   68  cd analisis_previos/
+   69  ls /lh
+   70  ls -lh
+   71  pwd
+   72  cd ~
+   73  cd fcb_material_practica1/analisis_previos/
+   74  history
+   75  pwd
+   76  >cat readme.txt
+   77  /fcb_material_practica1/README.txt
+   78  cat readme.txt
+   79  cat ~fcb_material_practica1/readme.txt
+   80  ~/fcb_material_practica1/readme.txt
+   81  cat ~/fcb_materia_practica1/readme.txt
+   82  ~/fcb_materia_practica1
+   83  cd ~/fcb_materia_practica1
+   84  ~/fcb_materia_practical
+   85  pwd
+   86  cd ~/fcb_material_practica1
+   87  /readme.txt
+   88  README.txt
+   89  cat ~readme.txt
+   90  cat /readme.txt
+   91  cat README.txt
+   92  cat /README.txt
+   93  cat README.txt
+   94  q
+   95  historial
+   96  cat historial
+   97  history 
+   98  history >comandos_historial_201026.txt
